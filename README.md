@@ -1,0 +1,43 @@
+# app4_7 _screenshots_
+## ![screen _1_ ]()
+
+
+
+
+# app4_7 _ description , details of use and used technologies _
+
+** A new Flutter project to show MVVM , structure folders and files , splash  , onBoarding , authentications , **
+
+## *All folders of the project*
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+<!-- # readme.md language simple syntax -->
+
+<!-- --> # ===>The largest heading -->
+<!-- --> ## ====>The second largest heading -->
+<!-- --> ###### ====>The smallest heading -->
+<!-- --> ** ** or __ __  ====> **This is bold text**	This is bold text -->
+<!-- --> * * or _ _ ====> *This text is italicized*	This text is italicized -->
+<!-- --> ~~ ~~  ====> ~~This was mistaken text~~	This was mistaken text -->
+<!-- --> ** ** and _ _ ====> **This text is _extremely_ important**	This text is extremely important -->
+<!-- --> *** *** ====> ***All this text is important***	All this text is important -->
+<!-- -->  <sub> </sub>  <sup> </sup>====> -->
+<!-- --> > Text that is a quote -->
+<!-- --> -->
+<!-- --> -->
+<!-- --> -->
+
+<!-- When you use two or more headings, GitHub automatically generates a table of contents which you can access by -->
+<!-- clicking  within the file header. Each heading title is listed in the table of contents and -->
+<!-- you can click a title to navigate to the selected section. -->
+
